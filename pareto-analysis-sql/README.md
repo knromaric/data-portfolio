@@ -298,14 +298,12 @@ plt.savefig('pareto_petshop.png', dpi=150)
 plt.show()
 ```
 
-![Pareto Chart](pareto_petshop.png)
+<img width="2100" height="900" alt="pareto_petshop" src="https://github.com/user-attachments/assets/889ce2b5-c4bc-4f7d-80d8-46162ea2eb61" />
 
 ---
 
 ## 🔭 Next Steps
 
-- [ ] Color Pareto bars by A/B/C tier in Python visualization
-- [ ] Add **product-level Pareto** (which SKUs drive 80% of revenue?)
 - [ ] Build a **country-level breakdown** of the Pareto distribution
 - [ ] Track segment **migration over time** (do B customers become A?)
 
@@ -313,5 +311,5 @@ plt.show()
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
+**Romaric Nzekeng**    
+Businesss Analyst | SQL | Python | Power BI
